@@ -1,0 +1,60 @@
+---
+layout: default
+---
+<div class="posts">
+<h2>Articles featuring {{ page.tag }}</h2>
+<hr>
+{% for post in site.tags[page.tag] %}
+
+  <article class="post">
+
+      <h7><a href="{{ site.baseurl }}{{ post.url }}" style="color:#303030;">{{ post.title }}</a></h7>
+      <br style="line-height: 10px" />
+	  <div class="entry">
+        <a href="{{ site.baseurl }}{{ post.url }}" style="color:#7C7878;">{{ post.excerpt }}</a><br>
+        <a href="{{ site.baseurl }}{{ post.url }}" style="font-size:18px; color:#c9c6c5;"><i>{{ post.time }}</i>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;<i>{{ post.dat }}</i></a>
+      </div>
+      
+      <br>
+      <br>
+  
+{% endfor %}
+
+<div>
+<h3>Articles by category</h3>
+<hr>
+    <ul class="two">
+        <li><a href="/tag/academics" style="color:#303030;"><span class="a"><nobr>Academics</nobr></span> </a></li>
+        <li><a href="/tag/economics" style="color:#303030;"><span class="a"><nobr>Economics</nobr></span> </a></li>
+        <li><a href="/tag/healthcare" style="color:#303030;"><span class="a"><nobr>Healthcare</nobr></span> </a></li>
+        <li><a href="/tag/how-to" style="color:#303030;"><span class="a"><nobr>How to</nobr></span> </a></li>
+        <li><a href="/tag/politics" style="color:#303030;"><span class="a"><nobr>Politics</nobr></span> </a></li>
+        <li><a href="/tag/sports" style="color:#303030;"><span class="a"><nobr>Sports</nobr></span> </a></li>
+    </ul>
+</div>
+
+<div>
+<h3>Articles by technology</h3>
+<hr>
+    <ul class="two">
+        <li><a href="/tag/data-wrangling" style="color:#303030;"><span class="a"<nobr>Data wrangling</nobr></span> </a></li>
+        <li><a href="/tag/model-selection" style="color:#303030;"><span class="a"<nobr>Model selection</nobr></span> </a></li>
+        <li><a href="/tag/NMDS" style="color:#303030;"><span class="a"><nobr>NMDS</nobr></span> </a></li>
+        <li><a href="/tag/R" style="color:#303030;"><span class="a"><nobr>R</nobr></span> </a></li>
+	    <li><a href="/tag/regression" style="color:#303030;"><span class="a"><nobr>Regression</nobr></span> </a></li>
+	    <li><a href="/tag/sentiment" style="color:#303030;"><span class="a"><nobr>Sentiment</nobr></span> </a></li>
+	    <li><a href="/tag/Shiny" style="color:#303030;"><span class="a"><nobr>Shiny</nobr></span> </a></li>
+	    <li><a href="/tag/Tableau" style="color:#303030;"><span class="a"><nobr>Tableau</nobr></span> </a></li>
+	    <li><a href="/tag/variable-reduction" style="color:#303030;"><span class="a"><nobr>Variable reduction</nobr></span> </a></li> 
+	    <li><a href="/tag/web-scraping" style="color:#303030;"><span class="a"><nobr>Web scraping</nobr></span> </a></li> 
+    </ul>
+</div>
+
+<div>
+<h3><a href="https://chriswalter.info/archive/" style="color:#303030;">Article archive</a></h3>  
+</div>
+
+
+
+
+    
