@@ -4,7 +4,6 @@ title: Today's Quote
 permalink: /quote/
 ---
 
-<br>
 ## Life is like a box of chocolates, you never know what you gonna get.
 
 ### - Forest Gump
