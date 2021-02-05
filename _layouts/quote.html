@@ -17,6 +17,77 @@
      font: 18px/1.4 $helvetica;
      color: $white;
    }
+   
+h1, h2, h3, h4, h5, h6 {
+  font-family: $helveticaNeue;
+  color: $darkerGray;
+  text-decoration: none;
+  font-weight: bold;
+
+  line-height: 1.7;
+  margin: 1em 0 15px;
+  padding: 0;
+
+  @include mobile {
+    line-height: 1.4;
+  }
+}
+
+h1 {
+  font-size: 30px;
+  a {
+    color: inherit;
+  }
+}
+
+h2 {
+  font-size: 26px;
+  a {
+    color: inherit;
+  }
+}
+
+h3 {
+  font-size: 22px;
+  a {
+    color: inherit;
+  }
+}
+
+h4 {
+  font-size: 18px;
+  color: $gray;
+}
+
+h7 {
+  font-family: $helveticaNeue;
+  color: $darkerGray;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 20px;
+
+  line-height: 1;
+  margin: 1em 0 15px;
+  padding: 0;
+
+  @include mobile {
+    line-height: 1;
+  }
+}
+
+p {
+  margin: 15px 0;
+  margin-bottom: 25px;
+}
+
+a {
+  color: $blue;
+  text-decoration: none;
+	cursor: pointer;
+  &:hover, &:active {
+    color: $blue;
+  }
+}
   </style> 
 
   <body style="background-color:grey;">
