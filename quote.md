@@ -4,14 +4,12 @@ title: Today's Quote
 permalink: /quote/
 ---
 
-<p style="color:blue">This is demo content.
+<br>
 
-### Credentials
+<br>
 
-I have a PhD in Biology and I am curently an MS candidate in Analytics at the Georgia Institute of Technology. I have 13 years of research experience in both academic and government institutions. For a list of publications, please visit [my Google Scholar page](https://scholar.google.com/citations?hl=en&user=wfn0gRYAAAAJ).
+### Life is like a box of chocolates, you never know what you gonna get.
 
-### Contact
+## - Forest Gump
 
-You can contact me by [email](mailto:cwalte12@mail.wvu.edu) or by clicking an icon below.
-
-</p>
+<img src="http://www.naturepicoftheday.com/npods/2021/february/winterscape_800w.jpg" alt="Nature picture of the day">
