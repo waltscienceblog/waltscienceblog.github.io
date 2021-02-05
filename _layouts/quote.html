@@ -1,12 +1,38 @@
 <!DOCTYPE html>
 <html>
- 
-  <body>
-   
+<body>
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+        
+          <nav>
+            <a href="https://chriswalter.info">Home</a>
+            <a href="https://chriswalter.info/#port">Portfolio</a>
+            <a href="https://chriswalter.info/#pubs">Publications</a>
+            <a href="{{ site.baseurl }}/">Articles</a>
+          </nav>
+        </header>
+      </div>
+    </div>
+
     <div id="main" role="main" class="container">
       {{ content }}
     </div>
 
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          {% include svg-icons.html %} 
+          
+          <br> 
+          
+          <a href="https://chriswalter.info">Home</a>   |   <a href="https://chriswalter.info/#port">Portfolio</a>    |   <a href="https://chriswalter.info/#pubs">Publications</a>    |    <a href="https://waltscienceblog.github.io">Articles</a>  
+        </footer>
+      </div>
+    </div>
+
+    {% include analytics.html %}
   </body>
 </html>
+
 
