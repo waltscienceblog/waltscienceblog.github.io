@@ -1,10 +1,16 @@
----
-layout: quote
-title: Today's Quote
-permalink: /quote/
----
 
-# Life is like a box of chocolates, you never know what you gonna get.
 
-   -          ### - Forest Gump
+
+  
+---  
+layout: quote  
+title: Morning Quote  
+permalink: /quote/  
+---  
+
+# Life is like a box a chocalattte.
+
+
+   -          ### - Forest Gump  
+  
 ![Nature picture of the day](http://www.naturepicoftheday.com/npods/2021/february/winterscape_800w.jpg)
