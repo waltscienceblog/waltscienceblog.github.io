@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    
   </head>
   
   <style> 
@@ -12,24 +10,20 @@
         filter: grayscale(100%); 
     } 
     
-    ul {
-        list-style: none;
-    }
+    ul {list-style: none;}
     
     h1 {color:white;}
     
     h3 {color:white;}
   </style> 
 
-  <body style="background-color:black;">
+  <body>
       <div class="container">
         
       </div>
 
     <div id="main" role="main" class="container">
-
       {{ content }}
-      
     </div>
 
     {% include analytics.html %}
