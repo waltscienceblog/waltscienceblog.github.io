@@ -1,15 +1,1 @@
----
-layout: quote
-title: About Me
-permalink: /quote/
----
-
-I am a data scientist specializing in statistical and empirical modeling. I write articles for fun and try to learn new techniques along the way.
-
-### Credentials
-
-I have a PhD in Biology and I am curently an MS candidate in Analytics at the Georgia Institute of Technology. I have 13 years of research experience in both academic and government institutions. For a list of publications, please visit [my Google Scholar page](https://scholar.google.com/citations?hl=en&user=wfn0gRYAAAAJ).
-
-### Contact
-
-You can contact me by [email](mailto:cwalte12@mail.wvu.edu) or by clicking an icon below.
+---layout: quote title: Morning Quote permalink: /quote/ ---# We are at our very best, and we are happiest, when we are fully engaged in work we enjoy on the journey toward the goal we've established for ourselves. It gives meaning to our time off and comfort to our sleep. It makes everything else in life so wonderful, so worthwhile.   -          ### - Earl Nightingale <img src="http://www.naturepicoftheday.com/npods/2021/february/winterscape_800w.jpg" alt="Nature picture of the day">
