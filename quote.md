@@ -8,4 +8,4 @@ permalink: /quote/
 
    -          ### - Forest Gump
 
-<img src="http://www.naturepicoftheday.com/npods/2021/february/winterscape_800w.jpg" alt="Nature picture of the day">
+![Nature picture of the day](http://www.naturepicoftheday.com/npods/2021/february/winterscape_800w.jpg)
