@@ -4,7 +4,7 @@ title: Today's Quote
 permalink: /quote/
 ---
 
-<p style="color:blue">This is demo content.</p>
+<p style="color:blue">This is demo content.
 
 ### Credentials
 
@@ -14,3 +14,4 @@ I have a PhD in Biology and I am curently an MS candidate in Analytics at the Ge
 
 You can contact me by [email](mailto:cwalte12@mail.wvu.edu) or by clicking an icon below.
 
+</p>
