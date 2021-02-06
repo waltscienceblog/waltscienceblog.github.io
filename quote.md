@@ -1,1 +1,1 @@
-Quote of the day***## Mitt Romney will stop the attacks on job creators, encourage entrepreneurs to chase their dreams, and bring good jobs and a better future to all Americans. - ### Marco Rubio***<img src="https://www.naturepicoftheday.com//npods/2021/february/meltwater_800w.jpg" alt="Nature picture of the day">
+Quote of the day***## Not engaging in ignorance is wisdom. - ### Bodhidharma***<img src="https://www.naturepicoftheday.com//npods/2021/february/meltwater_800w.jpg" alt="Nature picture of the day">
