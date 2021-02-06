@@ -1,1 +1,1 @@
-Quote of the day***## Not engaging in ignorance is wisdom. - ### Bodhidharma***<img src="https://www.naturepicoftheday.com//npods/2021/february/meltwater_800w.jpg" alt="Nature picture of the day">
+Quote of the day***## Not engaging in ignorance is wisdom. - ### Bodhidharmafff***<img src="https://www.naturepicoftheday.com//npods/2021/february/meltwater_800w.jpg" alt="Nature picture of the day">
