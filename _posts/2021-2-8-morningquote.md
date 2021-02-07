@@ -2,10 +2,10 @@
 layout: post
 image: /images/calvin.jpg
 page.image: /images/calvin.jpg
-summary: Make a quote generator to text you motivation every morning.
-excerpt: Make a quote generator to text you motivation every morning.
+summary: Make a quote generator to text motivation to you every morning.
+excerpt: Make a quote generator to text motivation to you every morning.
 time: 3 minute read
-title: Automate daily motivation with a little Python
+title: How to automate daily motivation with a little Python
 tags: Python web-scraping productivity
 dat: February 8, 2021
 ---
