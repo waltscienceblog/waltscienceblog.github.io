@@ -23,6 +23,7 @@ I call this app, the *Quotivator* (the name is still in beta).
 <br>
 
 ### How does the Quotivator work?
+***
 
 The Quotivator works in three easy steps:
 
@@ -41,6 +42,7 @@ After the python code is written, I simply create an executable file to run the 
 <br>
 
 ### What does the Quotivator do?
+***
 
 The Quotivator provides a daily update on my website to display the [quote and photo of the day](https://waltscienceblog.github.io/quote/). You can set this as your browser's homepage if you would like a new inspirational quote to greet you daily.
 
@@ -49,13 +51,25 @@ The Quotivator also texts a the daily quote to my phone. I see it when I wake up
 <br>
 
 ### What is the Quotivator an example of?
+***
 
 Well, if you are just starting out coding in Python, the Quotivator is an example of many applications. Web scraping, database updating, texting from the console, and automation. All of these are powerful tools that are easily implemented in Python. 
 
 <br>
 
+### How can I get the Quotivator to text me?
+***
+
+To make the Quotivator yours, just fork my GitHub Repository and enter your Twilio account and key into the Python script. Then simply automate your script through automator or cron.
+
+If you just want the daily quotes on your browser, set your homepage to [my daily quote and photo page](https://waltscienceblog.github.io/quote/).
+
+<br>
+
 *Quote database source: Akhil Tak's inspirational-quotes repository on GitHub*
+
 *Image source: Nature pic of the day website*
+
 *SMS service for Python: Twilio*
 
 *Data and Python code available on [GitHub](https://github.com/waltscience/todays-quote)*
