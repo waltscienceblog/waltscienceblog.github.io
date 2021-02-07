@@ -44,7 +44,7 @@ After the python code is written, I simply create an executable file to run the 
 ### What does the Quotivator do?
 ***
 
-The Quotivator provides a daily update on my website to display the [quote and photo of the day](https://waltscienceblog.github.io/quote/). You can bookmark this page or it as your browser's homepage if you would like a new inspirational quote to greet you daily.
+The Quotivator provides a daily update on my website to display the [quote and photo of the day](https://waltscienceblog.github.io/quote/). You can bookmark this page or set it as your browser's homepage if you would like a new inspirational quote to greet you daily.
 
 The Quotivator also texts the daily quote to my phone. I see it when I wake up in the morning, and it motivates to exercise and tackle my day - even when it is really dark and cold.
 
