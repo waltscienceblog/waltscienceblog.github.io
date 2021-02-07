@@ -13,7 +13,7 @@ February is here. And, if you are like me, you can be easily bummed-out by the s
 
 To fight this bummer of a month, I set out to build an app to text me some daily motivation - in the form of an inspirational quote. It turns out this is an easy thing to do thanks to Python, a [nicely curated quote database](https://github.com/akhiltak/inspirational-quotes/blob/master/Quotes.csv), a [sweet picture of the day website](http://www.naturepicoftheday.com), and the SMS service [Twilio](https://www.twilio.com).
 
-I call this app... the *Quotivator* (the name is still in beta).
+I call this app... the **Quotivator** (the name is still in beta).
 
 <p align="center">
   <img src="{{ site.baseurl }}/images/darkmorning.jpg" />
