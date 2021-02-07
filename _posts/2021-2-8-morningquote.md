@@ -60,7 +60,7 @@ Well, if you are just starting out coding in Python, the Quotivator is an exampl
 ### How can I get the Quotivator to text me?
 ***
 
-To make the Quotivator yours, just fork my GitHub Repository and enter your Twilio account and key into the Python script. Then simply automate your script through automator or cron.
+To make the Quotivator yours, just fork my [GitHub Repository](https://github.com/waltscience/todays-quote) and enter your Twilio account and key into the Python script. Then simply automate your script through automator or cron.
 
 If you don't want to code or just want see daily quotes on your browser, bookmark or set your homepage to [my daily quote and photo page](https://waltscienceblog.github.io/quote/).
 
