@@ -37,7 +37,7 @@ The Quotivator works in four easy steps:
  
 Thanks to the magic of Python, all of this happens in under 20 lines of code! Not that anyone is counting... 
 
-After the python code is written, I simply create an executable file to run the code, and schedule that file to run once daily with Automator for Mac. If you use Windows, you can schedule executable file runs using cron.
+After the python code is written, I simply create an executable file to run the code, and schedule that file to run once daily with Automator for Mac. If you use Windows or linux, you can schedule executable file runs using task scheduler or cron.
 
 <br>
 
