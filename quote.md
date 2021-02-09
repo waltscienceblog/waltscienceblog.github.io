@@ -1,1 +1,1 @@
-Quote of the day***## We all have to work for happiness. And you cannot listen to other people. That is the worst mistake you can make. - ### Jillian Michaels***<img src="https://www.naturepicoftheday.com//npods/2021/february/a_dream_of_spring_800w.jpg" alt="Nature picture of the day">
+Quote of the day***## A positive attitude is something everyone can work on, and everyone can learn how to employ it. - ### Joan Lunden***<img src="https://www.naturepicoftheday.com//npods/2021/february/low_ceiling_800w.jpg" alt="Nature picture of the day">
